@@ -1,4 +1,4 @@
-const notas = [10, 6.5, 8, 7.5];
+const notas = [10, 6.5, 8, 7];
 
 notas.pop();
 

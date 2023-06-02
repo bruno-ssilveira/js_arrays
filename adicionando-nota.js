@@ -1,6 +1,6 @@
 const notas = [10, 6.5, 8, 7.5];
 
-notas.push(7);
+notas.push(8);
 
 console.log(notas);
 
